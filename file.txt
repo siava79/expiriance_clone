@@ -1,13 +1,3 @@
 first action
 second action
-third action
-12334
-5678
-91011
-new commit
-NEW COMMIT WITHOUT STAGED
-
-new222
-this data from test1 branch
-
-this data from test1 branch2
+third action2
